@@ -3,14 +3,19 @@
 > Vue starter kit with vue, vuex , router, bootstrap, webpack and expressjs
 
 ## Build Setup
-
 ``` bash
+# Clone the project
+git clone https://github.com/pnaika/vue_starter_kit_demo.git
+
+# install dependencies
+npm install
+
+
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
 
 # To run express server
 node server.js
