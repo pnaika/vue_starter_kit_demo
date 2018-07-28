@@ -1,12 +1,12 @@
 <template>
   <div class="hello">
-    <h1>I am Hello World Component</h1>
+    <h1>I am Hello Again component</h1>
   </div>
 </template>
 
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'HelloAgain',
   };
 </script>
 <style scoped>
